@@ -1,0 +1,252 @@
+2020-07-28 20:21:05.114  INFO 14096 --- [Thread-222] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2020-07-28 20:21:06.157  INFO 14096 --- [restartedMain] k.e.a.ApiAdminServiceApplication         : No active profile set, falling back to default profiles: default
+2020-07-28 20:21:07.234  INFO 14096 --- [restartedMain] o.s.cloud.context.scope.GenericScope     : BeanFactory id=8dfc5570-704a-3d8e-a3bc-16a561a2dd89
+2020-07-28 20:21:07.315  INFO 14096 --- [restartedMain] trationDelegate$BeanPostProcessorChecker : Bean 'kg.easy.apiadminservice.microservices.login_service.LoginServiceProxy' of type [org.springframework.cloud.openfeign.FeignClientFactoryBean] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-07-28 20:21:07.540  INFO 14096 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8010 (http)
+2020-07-28 20:21:07.541  INFO 14096 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-07-28 20:21:07.541  INFO 14096 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.36]
+2020-07-28 20:21:07.573  INFO 14096 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2020-07-28 20:21:07.573  INFO 14096 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1408 ms
+2020-07-28 20:21:07.668  INFO 14096 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2020-07-28 20:21:07.886  INFO 14096 --- [restartedMain] pertySourcedRequestMappingHandlerMapping : Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2020-07-28 20:21:07.899  WARN 14096 --- [restartedMain] c.n.c.sources.URLConfigurationSource     : No URLs will be polled as dynamic configuration sources.
+2020-07-28 20:21:07.900  INFO 14096 --- [restartedMain] c.n.c.sources.URLConfigurationSource     : To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2020-07-28 20:21:07.961  INFO 14096 --- [restartedMain] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-07-28 20:21:08.411  INFO 14096 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8010 (http) with context path ''
+2020-07-28 20:21:08.731  INFO 14096 --- [restartedMain] d.s.w.p.DocumentationPluginsBootstrapper : Context refreshed
+2020-07-28 20:21:08.733  INFO 14096 --- [restartedMain] d.s.w.p.DocumentationPluginsBootstrapper : Found 1 custom documentation plugin(s)
+2020-07-28 20:21:08.744  INFO 14096 --- [restartedMain] s.d.s.w.s.ApiListingReferenceScanner     : Scanning for api listing references
+2020-07-28 20:21:08.850  INFO 14096 --- [restartedMain] k.e.a.ApiAdminServiceApplication         : Started ApiAdminServiceApplication in 3.397 seconds (JVM running for 159648.3)
+2020-07-28 20:21:08.854  INFO 14096 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2020-07-28 20:21:40.400  INFO 14096 --- [Thread-419] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2020-07-28 20:21:41.325  INFO 14096 --- [restartedMain] k.e.a.ApiAdminServiceApplication         : No active profile set, falling back to default profiles: default
+2020-07-28 20:21:41.836  INFO 14096 --- [restartedMain] o.s.cloud.context.scope.GenericScope     : BeanFactory id=8dfc5570-704a-3d8e-a3bc-16a561a2dd89
+2020-07-28 20:21:41.877  INFO 14096 --- [restartedMain] trationDelegate$BeanPostProcessorChecker : Bean 'kg.easy.apiadminservice.microservices.login_service.LoginServiceProxy' of type [org.springframework.cloud.openfeign.FeignClientFactoryBean] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-07-28 20:21:41.994  INFO 14096 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8010 (http)
+2020-07-28 20:21:41.994  INFO 14096 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-07-28 20:21:41.994  INFO 14096 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.36]
+2020-07-28 20:21:42.018  INFO 14096 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2020-07-28 20:21:42.019  INFO 14096 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 691 ms
+2020-07-28 20:21:42.107  INFO 14096 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2020-07-28 20:21:42.282  INFO 14096 --- [restartedMain] pertySourcedRequestMappingHandlerMapping : Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2020-07-28 20:21:42.290  WARN 14096 --- [restartedMain] c.n.c.sources.URLConfigurationSource     : No URLs will be polled as dynamic configuration sources.
+2020-07-28 20:21:42.291  INFO 14096 --- [restartedMain] c.n.c.sources.URLConfigurationSource     : To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2020-07-28 20:21:42.329  INFO 14096 --- [restartedMain] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-07-28 20:21:42.778  INFO 14096 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8010 (http) with context path ''
+2020-07-28 20:21:43.222  INFO 14096 --- [restartedMain] d.s.w.p.DocumentationPluginsBootstrapper : Context refreshed
+2020-07-28 20:21:43.224  INFO 14096 --- [restartedMain] d.s.w.p.DocumentationPluginsBootstrapper : Found 1 custom documentation plugin(s)
+2020-07-28 20:21:43.235  INFO 14096 --- [restartedMain] s.d.s.w.s.ApiListingReferenceScanner     : Scanning for api listing references
+2020-07-28 20:21:43.329  INFO 14096 --- [restartedMain] k.e.a.ApiAdminServiceApplication         : Started ApiAdminServiceApplication in 2.699 seconds (JVM running for 159682.778)
+2020-07-28 20:21:43.331  INFO 14096 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2020-07-28 20:23:09.193  INFO 14096 --- [Thread-616] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2020-07-28 20:23:09.892  INFO 14096 --- [restartedMain] k.e.a.ApiAdminServiceApplication         : No active profile set, falling back to default profiles: default
+2020-07-28 20:23:10.459  INFO 14096 --- [restartedMain] o.s.cloud.context.scope.GenericScope     : BeanFactory id=8dfc5570-704a-3d8e-a3bc-16a561a2dd89
+2020-07-28 20:23:10.511  INFO 14096 --- [restartedMain] trationDelegate$BeanPostProcessorChecker : Bean 'kg.easy.apiadminservice.microservices.login_service.LoginServiceProxy' of type [org.springframework.cloud.openfeign.FeignClientFactoryBean] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-07-28 20:23:10.653  INFO 14096 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8010 (http)
+2020-07-28 20:23:10.653  INFO 14096 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-07-28 20:23:10.654  INFO 14096 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.36]
+2020-07-28 20:23:10.685  INFO 14096 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2020-07-28 20:23:10.685  INFO 14096 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 791 ms
+2020-07-28 20:23:10.782  INFO 14096 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2020-07-28 20:23:10.990  INFO 14096 --- [restartedMain] pertySourcedRequestMappingHandlerMapping : Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2020-07-28 20:23:11.005  WARN 14096 --- [restartedMain] c.n.c.sources.URLConfigurationSource     : No URLs will be polled as dynamic configuration sources.
+2020-07-28 20:23:11.005  INFO 14096 --- [restartedMain] c.n.c.sources.URLConfigurationSource     : To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2020-07-28 20:23:11.065  INFO 14096 --- [restartedMain] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-07-28 20:23:11.488  INFO 14096 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8010 (http) with context path ''
+2020-07-28 20:23:11.824  INFO 14096 --- [restartedMain] d.s.w.p.DocumentationPluginsBootstrapper : Context refreshed
+2020-07-28 20:23:11.825  INFO 14096 --- [restartedMain] d.s.w.p.DocumentationPluginsBootstrapper : Found 1 custom documentation plugin(s)
+2020-07-28 20:23:11.835  INFO 14096 --- [restartedMain] s.d.s.w.s.ApiListingReferenceScanner     : Scanning for api listing references
+2020-07-28 20:23:11.910  INFO 14096 --- [restartedMain] k.e.a.ApiAdminServiceApplication         : Started ApiAdminServiceApplication in 2.586 seconds (JVM running for 159771.359)
+2020-07-28 20:23:11.914  INFO 14096 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2020-07-28 20:23:35.251  INFO 14096 --- [Thread-813] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2020-07-28 20:23:36.132  INFO 14096 --- [restartedMain] k.e.a.ApiAdminServiceApplication         : No active profile set, falling back to default profiles: default
+2020-07-28 20:23:36.665  INFO 14096 --- [restartedMain] o.s.cloud.context.scope.GenericScope     : BeanFactory id=8dfc5570-704a-3d8e-a3bc-16a561a2dd89
+2020-07-28 20:23:36.697  INFO 14096 --- [restartedMain] trationDelegate$BeanPostProcessorChecker : Bean 'kg.easy.apiadminservice.microservices.login_service.LoginServiceProxy' of type [org.springframework.cloud.openfeign.FeignClientFactoryBean] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-07-28 20:23:36.808  INFO 14096 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8010 (http)
+2020-07-28 20:23:36.808  INFO 14096 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-07-28 20:23:36.808  INFO 14096 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.36]
+2020-07-28 20:23:36.833  INFO 14096 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2020-07-28 20:23:36.833  INFO 14096 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 698 ms
+2020-07-28 20:23:36.907  INFO 14096 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2020-07-28 20:23:37.063  INFO 14096 --- [restartedMain] pertySourcedRequestMappingHandlerMapping : Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2020-07-28 20:23:37.070  WARN 14096 --- [restartedMain] c.n.c.sources.URLConfigurationSource     : No URLs will be polled as dynamic configuration sources.
+2020-07-28 20:23:37.071  INFO 14096 --- [restartedMain] c.n.c.sources.URLConfigurationSource     : To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2020-07-28 20:23:37.105  INFO 14096 --- [restartedMain] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-07-28 20:23:37.519  INFO 14096 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8010 (http) with context path ''
+2020-07-28 20:23:37.810  INFO 14096 --- [restartedMain] d.s.w.p.DocumentationPluginsBootstrapper : Context refreshed
+2020-07-28 20:23:37.811  INFO 14096 --- [restartedMain] d.s.w.p.DocumentationPluginsBootstrapper : Found 1 custom documentation plugin(s)
+2020-07-28 20:23:37.819  INFO 14096 --- [restartedMain] s.d.s.w.s.ApiListingReferenceScanner     : Scanning for api listing references
+2020-07-28 20:23:37.911  INFO 14096 --- [restartedMain] k.e.a.ApiAdminServiceApplication         : Started ApiAdminServiceApplication in 2.528 seconds (JVM running for 159797.36)
+2020-07-28 20:23:37.914  INFO 14096 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2020-07-28 20:23:42.920  INFO 14096 --- [Thread-1010] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2020-07-28 20:23:43.813  INFO 14096 --- [restartedMain] k.e.a.ApiAdminServiceApplication         : No active profile set, falling back to default profiles: default
+2020-07-28 20:23:44.563  INFO 14096 --- [restartedMain] o.s.cloud.context.scope.GenericScope     : BeanFactory id=32bd8e57-9d43-3e1b-9b8d-b7369c49d17c
+2020-07-28 20:23:44.600  INFO 14096 --- [restartedMain] trationDelegate$BeanPostProcessorChecker : Bean 'kg.easy.apiadminservice.microservices.login_service.LoginServiceProxy' of type [org.springframework.cloud.openfeign.FeignClientFactoryBean] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-07-28 20:23:44.750  INFO 14096 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8010 (http)
+2020-07-28 20:23:44.751  INFO 14096 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-07-28 20:23:44.751  INFO 14096 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.36]
+2020-07-28 20:23:44.779  INFO 14096 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2020-07-28 20:23:44.779  INFO 14096 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 961 ms
+2020-07-28 20:23:44.868  INFO 14096 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2020-07-28 20:23:45.052  INFO 14096 --- [restartedMain] pertySourcedRequestMappingHandlerMapping : Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2020-07-28 20:23:45.059  WARN 14096 --- [restartedMain] c.n.c.sources.URLConfigurationSource     : No URLs will be polled as dynamic configuration sources.
+2020-07-28 20:23:45.059  INFO 14096 --- [restartedMain] c.n.c.sources.URLConfigurationSource     : To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2020-07-28 20:23:45.092  INFO 14096 --- [restartedMain] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-07-28 20:23:45.437  INFO 14096 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8010 (http) with context path ''
+2020-07-28 20:23:45.680  INFO 14096 --- [restartedMain] d.s.w.p.DocumentationPluginsBootstrapper : Context refreshed
+2020-07-28 20:23:45.681  INFO 14096 --- [restartedMain] d.s.w.p.DocumentationPluginsBootstrapper : Found 1 custom documentation plugin(s)
+2020-07-28 20:23:45.686  INFO 14096 --- [restartedMain] s.d.s.w.s.ApiListingReferenceScanner     : Scanning for api listing references
+2020-07-28 20:23:45.748  INFO 14096 --- [restartedMain] k.e.a.ApiAdminServiceApplication         : Started ApiAdminServiceApplication in 2.705 seconds (JVM running for 159805.198)
+2020-07-28 20:23:45.750  INFO 14096 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2020-07-28 20:23:47.261  INFO 14984 --- [main] k.e.a.ApiAdminServiceApplicationTests    : No active profile set, falling back to default profiles: default
+2020-07-28 20:23:48.686  INFO 14984 --- [main] o.s.cloud.context.scope.GenericScope     : BeanFactory id=e69f8a63-c751-33fb-842d-41ddf12a7e89
+2020-07-28 20:23:49.042  INFO 14984 --- [main] trationDelegate$BeanPostProcessorChecker : Bean 'kg.easy.apiadminservice.microservices.login_service.LoginServiceProxy' of type [org.springframework.cloud.openfeign.FeignClientFactoryBean] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-07-28 20:23:50.632  INFO 14984 --- [main] pertySourcedRequestMappingHandlerMapping : Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2020-07-28 20:23:50.889  WARN 14984 --- [main] c.n.c.sources.URLConfigurationSource     : No URLs will be polled as dynamic configuration sources.
+2020-07-28 20:23:50.890  INFO 14984 --- [main] c.n.c.sources.URLConfigurationSource     : To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2020-07-28 20:23:50.905  WARN 14984 --- [main] c.n.c.sources.URLConfigurationSource     : No URLs will be polled as dynamic configuration sources.
+2020-07-28 20:23:50.906  INFO 14984 --- [main] c.n.c.sources.URLConfigurationSource     : To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2020-07-28 20:23:51.208  INFO 14984 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-07-28 20:23:51.978  INFO 14984 --- [main] d.s.w.p.DocumentationPluginsBootstrapper : Context refreshed
+2020-07-28 20:23:52.017  INFO 14984 --- [main] d.s.w.p.DocumentationPluginsBootstrapper : Found 1 custom documentation plugin(s)
+2020-07-28 20:23:52.080  INFO 14984 --- [main] s.d.s.w.s.ApiListingReferenceScanner     : Scanning for api listing references
+2020-07-28 20:23:52.437  INFO 14984 --- [main] k.e.a.ApiAdminServiceApplicationTests    : Started ApiAdminServiceApplicationTests in 6.576 seconds (JVM running for 8.052)
+2020-07-28 20:23:52.871  INFO 14984 --- [SpringContextShutdownHook] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2020-07-28 20:28:16.014  INFO 14096 --- [http-nio-8010-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-07-28 20:28:16.015  INFO 14096 --- [http-nio-8010-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2020-07-28 20:28:16.028  INFO 14096 --- [http-nio-8010-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 13 ms
+2020-07-28 20:46:49.685  INFO 16356 --- [restartedMain] k.e.a.ApiAdminServiceApplication         : No active profile set, falling back to default profiles: default
+2020-07-28 20:46:50.627  INFO 16356 --- [restartedMain] o.s.cloud.context.scope.GenericScope     : BeanFactory id=32bd8e57-9d43-3e1b-9b8d-b7369c49d17c
+2020-07-28 20:46:50.742  INFO 16356 --- [restartedMain] trationDelegate$BeanPostProcessorChecker : Bean 'kg.easy.apiadminservice.microservices.login_service.LoginServiceProxy' of type [org.springframework.cloud.openfeign.FeignClientFactoryBean] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-07-28 20:46:51.174  INFO 16356 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8010 (http)
+2020-07-28 20:46:51.182  INFO 16356 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-07-28 20:46:51.182  INFO 16356 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.36]
+2020-07-28 20:46:51.299  INFO 16356 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2020-07-28 20:46:51.300  INFO 16356 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1598 ms
+2020-07-28 20:46:51.495  INFO 16356 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2020-07-28 20:46:51.879  INFO 16356 --- [restartedMain] pertySourcedRequestMappingHandlerMapping : Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2020-07-28 20:46:51.899  WARN 16356 --- [restartedMain] c.n.c.sources.URLConfigurationSource     : No URLs will be polled as dynamic configuration sources.
+2020-07-28 20:46:51.899  INFO 16356 --- [restartedMain] c.n.c.sources.URLConfigurationSource     : To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2020-07-28 20:46:51.903  WARN 16356 --- [restartedMain] c.n.c.sources.URLConfigurationSource     : No URLs will be polled as dynamic configuration sources.
+2020-07-28 20:46:51.904  INFO 16356 --- [restartedMain] c.n.c.sources.URLConfigurationSource     : To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2020-07-28 20:46:51.986  INFO 16356 --- [restartedMain] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-07-28 20:46:52.438  INFO 16356 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8010 (http) with context path ''
+2020-07-28 20:46:52.636  INFO 16356 --- [restartedMain] d.s.w.p.DocumentationPluginsBootstrapper : Context refreshed
+2020-07-28 20:46:52.649  INFO 16356 --- [restartedMain] d.s.w.p.DocumentationPluginsBootstrapper : Found 1 custom documentation plugin(s)
+2020-07-28 20:46:52.677  INFO 16356 --- [restartedMain] s.d.s.w.s.ApiListingReferenceScanner     : Scanning for api listing references
+2020-07-28 20:46:52.852  INFO 16356 --- [restartedMain] k.e.a.ApiAdminServiceApplication         : Started ApiAdminServiceApplication in 4.624 seconds (JVM running for 5.572)
+2020-07-28 20:47:38.201  INFO 16356 --- [http-nio-8010-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-07-28 20:47:38.202  INFO 16356 --- [http-nio-8010-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2020-07-28 20:47:38.208  INFO 16356 --- [http-nio-8010-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 6 ms
+2020-07-28 20:47:48.520 DEBUG 16356 --- [http-nio-8010-exec-4] k.e.a.aspect.LoggingAspect               : Enter: kg.easy.apiadminservice.controllers.UserController.findAllUsers() with argument[s] = []
+2020-07-28 20:47:48.524 DEBUG 16356 --- [http-nio-8010-exec-4] k.e.a.aspect.LoggingAspect               : Enter: kg.easy.apiadminservice.services.impl.UserServiceImpl.findAllUsers() with argument[s] = []
+2020-07-28 20:47:49.320 DEBUG 16356 --- [http-nio-8010-exec-4] k.e.a.aspect.LoggingAspect               : Exit: kg.easy.apiadminservice.services.impl.UserServiceImpl.findAllUsers() with result = [UserDto(userId=2, userName=Courier, address=null, userActive=true, roleId=null, roleName=Курьер, roleActive=true, accountId=null, login=null, password=null), UserDto(userId=3, userName=Operator, address=null, userActive=true, roleId=null, roleName=Оператор, roleActive=true, accountId=null, login=null, password=null), UserDto(userId=1, userName=Супер Админ, address=null, userActive=true, roleId=null, roleName=Супер Администратор, roleActive=true, accountId=null, login=null, password=null)]
+2020-07-28 20:47:49.320 DEBUG 16356 --- [http-nio-8010-exec-4] k.e.a.aspect.LoggingAspect               : Exit: kg.easy.apiadminservice.controllers.UserController.findAllUsers() with result = [UserDto(userId=2, userName=Courier, address=null, userActive=true, roleId=null, roleName=Курьер, roleActive=true, accountId=null, login=null, password=null), UserDto(userId=3, userName=Operator, address=null, userActive=true, roleId=null, roleName=Оператор, roleActive=true, accountId=null, login=null, password=null), UserDto(userId=1, userName=Супер Админ, address=null, userActive=true, roleId=null, roleName=Супер Администратор, roleActive=true, accountId=null, login=null, password=null)]
+2020-07-28 20:48:53.071  INFO 5808 --- [restartedMain] k.e.a.ApiAdminServiceApplication         : No active profile set, falling back to default profiles: default
+2020-07-28 20:48:54.120  INFO 5808 --- [restartedMain] o.s.cloud.context.scope.GenericScope     : BeanFactory id=32bd8e57-9d43-3e1b-9b8d-b7369c49d17c
+2020-07-28 20:48:54.244  INFO 5808 --- [restartedMain] trationDelegate$BeanPostProcessorChecker : Bean 'kg.easy.apiadminservice.microservices.login_service.LoginServiceProxy' of type [org.springframework.cloud.openfeign.FeignClientFactoryBean] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-07-28 20:48:54.725  INFO 5808 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8010 (http)
+2020-07-28 20:48:54.732  INFO 5808 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-07-28 20:48:54.733  INFO 5808 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.36]
+2020-07-28 20:48:54.860  INFO 5808 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2020-07-28 20:48:54.860  INFO 5808 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1766 ms
+2020-07-28 20:48:55.066  INFO 5808 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2020-07-28 20:48:55.419  INFO 5808 --- [restartedMain] pertySourcedRequestMappingHandlerMapping : Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2020-07-28 20:48:55.437  WARN 5808 --- [restartedMain] c.n.c.sources.URLConfigurationSource     : No URLs will be polled as dynamic configuration sources.
+2020-07-28 20:48:55.438  INFO 5808 --- [restartedMain] c.n.c.sources.URLConfigurationSource     : To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2020-07-28 20:48:55.442  WARN 5808 --- [restartedMain] c.n.c.sources.URLConfigurationSource     : No URLs will be polled as dynamic configuration sources.
+2020-07-28 20:48:55.442  INFO 5808 --- [restartedMain] c.n.c.sources.URLConfigurationSource     : To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2020-07-28 20:48:55.531  INFO 5808 --- [restartedMain] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-07-28 20:48:56.044  INFO 5808 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8010 (http) with context path ''
+2020-07-28 20:48:56.239  INFO 5808 --- [restartedMain] d.s.w.p.DocumentationPluginsBootstrapper : Context refreshed
+2020-07-28 20:48:56.250  INFO 5808 --- [restartedMain] d.s.w.p.DocumentationPluginsBootstrapper : Found 1 custom documentation plugin(s)
+2020-07-28 20:48:56.279  INFO 5808 --- [restartedMain] s.d.s.w.s.ApiListingReferenceScanner     : Scanning for api listing references
+2020-07-28 20:48:56.471  INFO 5808 --- [restartedMain] k.e.a.ApiAdminServiceApplication         : Started ApiAdminServiceApplication in 4.826 seconds (JVM running for 6.09)
+2020-07-28 20:51:37.061  INFO 5808 --- [http-nio-8010-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-07-28 20:51:37.062  INFO 5808 --- [http-nio-8010-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2020-07-28 20:51:37.072  INFO 5808 --- [http-nio-8010-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 9 ms
+2020-07-28 20:51:37.105 DEBUG 5808 --- [http-nio-8010-exec-1] k.e.a.aspect.LoggingAspect               : Enter: kg.easy.apiadminservice.controllers.UserController.findAllUsers() with argument[s] = []
+2020-07-28 20:51:37.111 DEBUG 5808 --- [http-nio-8010-exec-1] k.e.a.aspect.LoggingAspect               : Enter: kg.easy.apiadminservice.services.impl.UserServiceImpl.findAllUsers() with argument[s] = []
+2020-07-28 20:51:37.775 DEBUG 5808 --- [http-nio-8010-exec-1] k.e.a.aspect.LoggingAspect               : Exit: kg.easy.apiadminservice.services.impl.UserServiceImpl.findAllUsers() with result = [UserDto(userId=2, userName=Courier, address=null, userActive=true, roleId=null, roleName=Курьер, roleActive=true, accountId=null, login=null, password=null), UserDto(userId=3, userName=Operator, address=null, userActive=true, roleId=null, roleName=Оператор, roleActive=true, accountId=null, login=null, password=null), UserDto(userId=1, userName=Супер Админ, address=null, userActive=true, roleId=null, roleName=Супер Администратор, roleActive=true, accountId=null, login=null, password=null)]
+2020-07-28 20:51:37.776 DEBUG 5808 --- [http-nio-8010-exec-1] k.e.a.aspect.LoggingAspect               : Exit: kg.easy.apiadminservice.controllers.UserController.findAllUsers() with result = [UserDto(userId=2, userName=Courier, address=null, userActive=true, roleId=null, roleName=Курьер, roleActive=true, accountId=null, login=null, password=null), UserDto(userId=3, userName=Operator, address=null, userActive=true, roleId=null, roleName=Оператор, roleActive=true, accountId=null, login=null, password=null), UserDto(userId=1, userName=Супер Админ, address=null, userActive=true, roleId=null, roleName=Супер Администратор, roleActive=true, accountId=null, login=null, password=null)]
+2020-07-28 20:53:17.045  INFO 16128 --- [restartedMain] k.e.a.ApiAdminServiceApplication         : No active profile set, falling back to default profiles: default
+2020-07-28 20:53:17.915  INFO 16128 --- [restartedMain] o.s.cloud.context.scope.GenericScope     : BeanFactory id=32bd8e57-9d43-3e1b-9b8d-b7369c49d17c
+2020-07-28 20:53:18.086  INFO 16128 --- [restartedMain] trationDelegate$BeanPostProcessorChecker : Bean 'kg.easy.apiadminservice.microservices.login_service.LoginServiceProxy' of type [org.springframework.cloud.openfeign.FeignClientFactoryBean] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-07-28 20:53:18.640  INFO 16128 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8010 (http)
+2020-07-28 20:53:18.649  INFO 16128 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-07-28 20:53:18.650  INFO 16128 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.36]
+2020-07-28 20:53:18.782  INFO 16128 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2020-07-28 20:53:18.782  INFO 16128 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1719 ms
+2020-07-28 20:53:18.978  INFO 16128 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2020-07-28 20:53:19.362  INFO 16128 --- [restartedMain] pertySourcedRequestMappingHandlerMapping : Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2020-07-28 20:53:19.382  WARN 16128 --- [restartedMain] c.n.c.sources.URLConfigurationSource     : No URLs will be polled as dynamic configuration sources.
+2020-07-28 20:53:19.383  INFO 16128 --- [restartedMain] c.n.c.sources.URLConfigurationSource     : To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2020-07-28 20:53:19.387  WARN 16128 --- [restartedMain] c.n.c.sources.URLConfigurationSource     : No URLs will be polled as dynamic configuration sources.
+2020-07-28 20:53:19.387  INFO 16128 --- [restartedMain] c.n.c.sources.URLConfigurationSource     : To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2020-07-28 20:53:19.468  INFO 16128 --- [restartedMain] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-07-28 20:53:19.968  INFO 16128 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8010 (http) with context path ''
+2020-07-28 20:53:20.136  INFO 16128 --- [restartedMain] d.s.w.p.DocumentationPluginsBootstrapper : Context refreshed
+2020-07-28 20:53:20.150  INFO 16128 --- [restartedMain] d.s.w.p.DocumentationPluginsBootstrapper : Found 1 custom documentation plugin(s)
+2020-07-28 20:53:20.185  INFO 16128 --- [restartedMain] s.d.s.w.s.ApiListingReferenceScanner     : Scanning for api listing references
+2020-07-28 20:53:20.406  INFO 16128 --- [restartedMain] k.e.a.ApiAdminServiceApplication         : Started ApiAdminServiceApplication in 4.755 seconds (JVM running for 5.707)
+2020-07-28 20:53:33.609  INFO 16128 --- [http-nio-8010-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-07-28 20:53:33.610  INFO 16128 --- [http-nio-8010-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2020-07-28 20:53:33.616  INFO 16128 --- [http-nio-8010-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 6 ms
+2020-07-28 20:53:33.643 DEBUG 16128 --- [http-nio-8010-exec-1] k.e.a.aspect.LoggingAspect               : Enter: kg.easy.apiadminservice.controllers.UserController.findAllUsers() with argument[s] = []
+2020-07-28 20:53:33.648 DEBUG 16128 --- [http-nio-8010-exec-1] k.e.a.aspect.LoggingAspect               : Enter: kg.easy.apiadminservice.services.impl.UserServiceImpl.findAllUsers() with argument[s] = []
+2020-07-28 20:53:34.310 DEBUG 16128 --- [http-nio-8010-exec-1] k.e.a.aspect.LoggingAspect               : Exit: kg.easy.apiadminservice.services.impl.UserServiceImpl.findAllUsers() with result = [UserDto(userId=2, userName=Courier, address=null, userActive=true, roleId=null, roleName=Курьер, roleActive=true, accountId=2, login=courier, password=827ccb0eea8a706c4c34a16891f84e7b), UserDto(userId=3, userName=Operator, address=null, userActive=true, roleId=null, roleName=Оператор, roleActive=true, accountId=3, login=operator, password=827ccb0eea8a706c4c34a16891f84e7b), UserDto(userId=1, userName=Супер Админ, address=null, userActive=true, roleId=null, roleName=Супер Администратор, roleActive=true, accountId=1, login=sa, password=e10adc3949ba59abbe56e057f20f883e)]
+2020-07-28 20:53:34.310 DEBUG 16128 --- [http-nio-8010-exec-1] k.e.a.aspect.LoggingAspect               : Exit: kg.easy.apiadminservice.controllers.UserController.findAllUsers() with result = [UserDto(userId=2, userName=Courier, address=null, userActive=true, roleId=null, roleName=Курьер, roleActive=true, accountId=2, login=courier, password=827ccb0eea8a706c4c34a16891f84e7b), UserDto(userId=3, userName=Operator, address=null, userActive=true, roleId=null, roleName=Оператор, roleActive=true, accountId=3, login=operator, password=827ccb0eea8a706c4c34a16891f84e7b), UserDto(userId=1, userName=Супер Админ, address=null, userActive=true, roleId=null, roleName=Супер Администратор, roleActive=true, accountId=1, login=sa, password=e10adc3949ba59abbe56e057f20f883e)]
+2020-07-28 20:53:56.210  INFO 16128 --- [Thread-202] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2020-07-28 20:53:56.914  INFO 16128 --- [restartedMain] k.e.a.ApiAdminServiceApplication         : No active profile set, falling back to default profiles: default
+2020-07-28 20:53:57.396  INFO 16128 --- [restartedMain] o.s.cloud.context.scope.GenericScope     : BeanFactory id=8dfc5570-704a-3d8e-a3bc-16a561a2dd89
+2020-07-28 20:53:57.451  INFO 16128 --- [restartedMain] trationDelegate$BeanPostProcessorChecker : Bean 'kg.easy.apiadminservice.microservices.login_service.LoginServiceProxy' of type [org.springframework.cloud.openfeign.FeignClientFactoryBean] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-07-28 20:53:57.603  INFO 16128 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8010 (http)
+2020-07-28 20:53:57.603  INFO 16128 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-07-28 20:53:57.603  INFO 16128 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.36]
+2020-07-28 20:53:57.625  INFO 16128 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2020-07-28 20:53:57.626  INFO 16128 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 709 ms
+2020-07-28 20:53:57.732  INFO 16128 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2020-07-28 20:53:57.956  INFO 16128 --- [restartedMain] pertySourcedRequestMappingHandlerMapping : Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2020-07-28 20:53:57.967  WARN 16128 --- [restartedMain] c.n.c.sources.URLConfigurationSource     : No URLs will be polled as dynamic configuration sources.
+2020-07-28 20:53:57.968  INFO 16128 --- [restartedMain] c.n.c.sources.URLConfigurationSource     : To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2020-07-28 20:53:58.022  INFO 16128 --- [restartedMain] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-07-28 20:53:58.426  INFO 16128 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8010 (http) with context path ''
+2020-07-28 20:53:58.730  INFO 16128 --- [restartedMain] d.s.w.p.DocumentationPluginsBootstrapper : Context refreshed
+2020-07-28 20:53:58.731  INFO 16128 --- [restartedMain] d.s.w.p.DocumentationPluginsBootstrapper : Found 1 custom documentation plugin(s)
+2020-07-28 20:53:58.737  INFO 16128 --- [restartedMain] s.d.s.w.s.ApiListingReferenceScanner     : Scanning for api listing references
+2020-07-28 20:53:58.821  INFO 16128 --- [restartedMain] k.e.a.ApiAdminServiceApplication         : Started ApiAdminServiceApplication in 2.437 seconds (JVM running for 44.122)
+2020-07-28 20:53:58.825  INFO 16128 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2020-07-28 20:54:02.745  INFO 16128 --- [Thread-214] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2020-07-28 20:54:03.653  INFO 16128 --- [restartedMain] k.e.a.ApiAdminServiceApplication         : No active profile set, falling back to default profiles: default
+2020-07-28 20:54:04.237  INFO 16128 --- [restartedMain] o.s.cloud.context.scope.GenericScope     : BeanFactory id=32bd8e57-9d43-3e1b-9b8d-b7369c49d17c
+2020-07-28 20:54:04.269  INFO 16128 --- [restartedMain] trationDelegate$BeanPostProcessorChecker : Bean 'kg.easy.apiadminservice.microservices.login_service.LoginServiceProxy' of type [org.springframework.cloud.openfeign.FeignClientFactoryBean] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-07-28 20:54:04.414  INFO 16128 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8010 (http)
+2020-07-28 20:54:04.415  INFO 16128 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-07-28 20:54:04.415  INFO 16128 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.36]
+2020-07-28 20:54:04.443  INFO 16128 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2020-07-28 20:54:04.444  INFO 16128 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 788 ms
+2020-07-28 20:54:04.525  INFO 16128 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2020-07-28 20:54:04.710  INFO 16128 --- [restartedMain] pertySourcedRequestMappingHandlerMapping : Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2020-07-28 20:54:04.724  WARN 16128 --- [restartedMain] c.n.c.sources.URLConfigurationSource     : No URLs will be polled as dynamic configuration sources.
+2020-07-28 20:54:04.725  INFO 16128 --- [restartedMain] c.n.c.sources.URLConfigurationSource     : To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2020-07-28 20:54:04.790  INFO 16128 --- [restartedMain] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-07-28 20:54:05.249  INFO 16128 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8010 (http) with context path ''
+2020-07-28 20:54:05.581  INFO 16128 --- [restartedMain] d.s.w.p.DocumentationPluginsBootstrapper : Context refreshed
+2020-07-28 20:54:05.583  INFO 16128 --- [restartedMain] d.s.w.p.DocumentationPluginsBootstrapper : Found 1 custom documentation plugin(s)
+2020-07-28 20:54:05.590  INFO 16128 --- [restartedMain] s.d.s.w.s.ApiListingReferenceScanner     : Scanning for api listing references
+2020-07-28 20:54:05.699  INFO 16128 --- [restartedMain] k.e.a.ApiAdminServiceApplication         : Started ApiAdminServiceApplication in 2.774 seconds (JVM running for 51.0)
+2020-07-28 20:54:05.703  INFO 16128 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2020-07-28 20:54:06.643  INFO 20096 --- [main] k.e.a.ApiAdminServiceApplicationTests    : No active profile set, falling back to default profiles: default
+2020-07-28 20:54:07.857  INFO 20096 --- [main] o.s.cloud.context.scope.GenericScope     : BeanFactory id=e69f8a63-c751-33fb-842d-41ddf12a7e89
+2020-07-28 20:54:08.110  INFO 20096 --- [main] trationDelegate$BeanPostProcessorChecker : Bean 'kg.easy.apiadminservice.microservices.login_service.LoginServiceProxy' of type [org.springframework.cloud.openfeign.FeignClientFactoryBean] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-07-28 20:54:09.670  INFO 20096 --- [main] pertySourcedRequestMappingHandlerMapping : Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2020-07-28 20:54:09.920  WARN 20096 --- [main] c.n.c.sources.URLConfigurationSource     : No URLs will be polled as dynamic configuration sources.
+2020-07-28 20:54:09.921  INFO 20096 --- [main] c.n.c.sources.URLConfigurationSource     : To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2020-07-28 20:54:09.930  WARN 20096 --- [main] c.n.c.sources.URLConfigurationSource     : No URLs will be polled as dynamic configuration sources.
+2020-07-28 20:54:09.930  INFO 20096 --- [main] c.n.c.sources.URLConfigurationSource     : To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2020-07-28 20:54:10.183  INFO 20096 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-07-28 20:54:10.847  INFO 20096 --- [main] d.s.w.p.DocumentationPluginsBootstrapper : Context refreshed
+2020-07-28 20:54:10.873  INFO 20096 --- [main] d.s.w.p.DocumentationPluginsBootstrapper : Found 1 custom documentation plugin(s)
+2020-07-28 20:54:10.924  INFO 20096 --- [main] s.d.s.w.s.ApiListingReferenceScanner     : Scanning for api listing references
+2020-07-28 20:54:11.258  INFO 20096 --- [main] k.e.a.ApiAdminServiceApplicationTests    : Started ApiAdminServiceApplicationTests in 5.994 seconds (JVM running for 7.67)
+2020-07-28 20:54:11.728  INFO 20096 --- [SpringContextShutdownHook] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
